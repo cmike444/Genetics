@@ -9,12 +9,14 @@ gem 'rails-api'
 # Use postgresql as the database for Active Record
 gem 'pg'
 
+# Faker Gem for fake data
+gem 'faker'
 
 group :development do
   
   # RSpec for testing
   gem 'rspec-rails'
-  
+
 end
 
 
