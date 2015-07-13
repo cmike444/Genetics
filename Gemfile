@@ -12,6 +12,11 @@ gem 'pg'
 # Faker Gem for fake data
 gem 'faker'
 
+gem 'foreman'
+
+gem 'sass-rails'
+gem 'compass-rails'
+
 group :development do
   
   # RSpec for testing
